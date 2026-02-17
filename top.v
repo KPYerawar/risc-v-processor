@@ -3,6 +3,8 @@ module top(
     input rst, clk,
     output [31:0] cycle
 );
+
+    
     wire [31:0] mem_rdata, mem_wdata, addr;
     wire rstrb;
     wire [3:0] wr_strobe;
