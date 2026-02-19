@@ -12,7 +12,7 @@ module lsu(
     output mem_rstrb
 );
 
-    // Parameters for states (must match Control Unit)
+    // Parameters for states  (must match Control Unit)
     parameter WAIT=1, BYTE=5, WAIT_LOADING=6;
 
     wire load_store_state_flag = (state == BYTE);
