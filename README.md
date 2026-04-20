@@ -17,3 +17,4 @@ This repository contains the Verilog HDL source code for a 32-bit multi-cycle RI
   |-- firmware.hex       // Machine code for testing
   |-- testbench.v        // Simulation Testbench
 ```
+![Alt Text](https://github.com/KPYerawar/risc-v-processor/blob/main/UPDATED_RISC_v_FPGA/Screenshot%20from%202026-04-20%2005-40-44.png)
